@@ -1,7 +1,7 @@
-Monthly data for lake:, eri
-Subbasin:, Overbasin (lake+land)
-DataType:, Precipitation
-DataType:, Sum of daily precipitation values
+Monthly data for lake: eri
+Subbasin: Overbasin (lake+land)
+DataType: Precipitation
+DataType: Sum of daily precipitation values
 Units: mm
 YYYY,       Jan,       Feb,       Mar,       Apr,       May,       Jun,       Jul,       Aug,       Sep,       Oct,       Nov,       Dec
 1940,    42.220,    56.790,    61.250,    92.310,   108.640,   120.320,    49.940,   120.710,    55.690,    56.270,    80.630,    88.640
