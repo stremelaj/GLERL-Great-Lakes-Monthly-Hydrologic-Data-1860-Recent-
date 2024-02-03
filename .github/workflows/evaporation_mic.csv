@@ -1,6 +1,3 @@
-"Monthly tabular output of data from lltm_output_mic.csv"
-"Output from the NOAA/GLERL Large Lake Thermodynamics Model."
-"Evaporation (MM)"
 YYYY,     Jan,     Feb,     Mar,     Apr,     May,     Jun,      Jul,     Aug,     Sep,     Oct,     Nov,     Dec
 1950,   103.54,    53.61,    46.92,    29.09,    -0.47,    -2.00,     8.19,    46.52,    44.46,    49.19,   136.49,   122.23
 1951,    61.85,    36.17,    36.61,     2.99,    -3.17,    -4.91,    -1.25,    23.05,    68.16,    52.99,   114.83,    94.28
