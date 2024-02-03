@@ -1,8 +1,3 @@
-Monthly data for lake:, sup
-Subbasin:, Overbasin (lake+land)
-DataType:, Precipitation
-DataType:, Sum of daily precipitation values
-Units:, mm
 YYYY,       Jan,       Feb,       Mar,       Apr,       May,       Jun,       Jul,       Aug,       Sep,       Oct,       Nov,       Dec
 1940,    39.430,    25.250,    31.680,    53.980,    98.410,    95.350,    56.750,    53.950,    43.020,    47.620,    90.570,    39.800
 1941,    45.760,    42.530,    20.530,    67.730,    79.600,    86.360,    70.890,   124.760,   160.610,    91.560,    45.380,    47.180
