@@ -1,9 +1,3 @@
-Niagara River - Flow at Buffalo,,,,,,,,,,,,
-Units: cubic meters per second,,,,,,,,,,,,
-"Summary: The Niagara River flow at Buffalo is calculated as the sum of the component flows diverted to the US and Canadian hydropower plants, locally estimated inflows, Welland River flow, and flow over the Niagara Falls.  Monthly flows are computed as an average of daily calculated flows. ",,,,,,,,,,,,
-Reference: https://www.greatlakescc.org/en/coordinating-committee-products-and-datasets/,,,,,,,,,,,,
-Note: --- means that no data is available for that date.,,,,,,,,,,,,
-,,,,,,,,,,,,
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2000,5180,4980,5030,5320,5570,5740,5830,5750,5530,5380,5410,5350
 2001,5050,5210,5270,5390,5540,5400,5220,5210,5020,5260,5130,5480
