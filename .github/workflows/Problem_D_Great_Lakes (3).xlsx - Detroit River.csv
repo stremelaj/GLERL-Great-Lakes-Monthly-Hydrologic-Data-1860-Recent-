@@ -1,9 +1,3 @@
-Detroit River - Flow ,,,,,,,,,,,,
-Units: cubic meters per second,,,,,,,,,,,,
-"Summary: The Detroit River flow at the water level station in Wayne County, Michigan is provided - Monthly flows are computed as an average of daily calculated flows. ",,,,,,,,,,,,
-Reference: https://waterdata.usgs.gov/nwis/inventory?site_no=04165710&agency_cd=USGS,,,,,,,,,,,,
-Note: --- means that no data is available for that date.,,,,,,,,,,,,
-,,,,,,,,,,,,
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2000,---,---,---,---,---,---,---,---,---,---,---,---
 2001,---,---,---,---,---,---,---,---,---,---,---,---
